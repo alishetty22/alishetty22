@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alishetty22
 - 👀 I’m interested in cooding 
-- 🌱 I’m currently Working on fluuter  
+- 🌱 I’m currently Working on flutter  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8208082506
 
